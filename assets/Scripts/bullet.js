@@ -5,7 +5,7 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-//dev分支第一次创作
+//dev分支第二次创作
 cc.Class({
     extends: cc.Component,
 
